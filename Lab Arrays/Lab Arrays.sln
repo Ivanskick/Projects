@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab Arrays", "Lab Arrays\La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumbers", "ReverseNumbers\ReverseNumbers.csproj", "{02EC1EF8-D74A-425F-BF10-C072A66E1435}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{DD434E88-9E6A-4352-8579-CD3750FD0111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{02EC1EF8-D74A-425F-BF10-C072A66E1435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02EC1EF8-D74A-425F-BF10-C072A66E1435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02EC1EF8-D74A-425F-BF10-C072A66E1435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD434E88-9E6A-4352-8579-CD3750FD0111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD434E88-9E6A-4352-8579-CD3750FD0111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD434E88-9E6A-4352-8579-CD3750FD0111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD434E88-9E6A-4352-8579-CD3750FD0111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
