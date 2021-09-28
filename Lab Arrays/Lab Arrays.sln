@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumbers", "ReverseNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{DD434E88-9E6A-4352-8579-CD3750FD0111}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{A4840A61-41FC-4450-A032-89891C3F7FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DD434E88-9E6A-4352-8579-CD3750FD0111}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD434E88-9E6A-4352-8579-CD3750FD0111}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD434E88-9E6A-4352-8579-CD3750FD0111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4840A61-41FC-4450-A032-89891C3F7FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4840A61-41FC-4450-A032-89891C3F7FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4840A61-41FC-4450-A032-89891C3F7FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4840A61-41FC-4450-A032-89891C3F7FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
