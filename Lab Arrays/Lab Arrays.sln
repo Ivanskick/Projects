@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumEvenNumbers", "ConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfNames", "ListOfNames\ListOfNames.csproj", "{CC6ED47B-8732-4DA4-9258-B081FD35D296}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintEvenNumbers", "PrintEvenNumbers\PrintEvenNumbers.csproj", "{A2B14AB2-608F-47F5-B5B8-A49641EB7AC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CC6ED47B-8732-4DA4-9258-B081FD35D296}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6ED47B-8732-4DA4-9258-B081FD35D296}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6ED47B-8732-4DA4-9258-B081FD35D296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B14AB2-608F-47F5-B5B8-A49641EB7AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B14AB2-608F-47F5-B5B8-A49641EB7AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B14AB2-608F-47F5-B5B8-A49641EB7AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B14AB2-608F-47F5-B5B8-A49641EB7AC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
