@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab Arrays", "Lab Arrays\Lab Arrays.csproj", "{FF84CB81-0590-49CC-9756-D53645F84EA0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseNumbers", "ReverseNumbers\ReverseNumbers.csproj", "{02EC1EF8-D74A-425F-BF10-C072A66E1435}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArrayOfStrings", "ConsoleApp1\ReverseArrayOfStrings.csproj", "{DD434E88-9E6A-4352-8579-CD3750FD0111}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumEvenNumbers", "ConsoleApp2\SumEvenNumbers.csproj", "{A4840A61-41FC-4450-A032-89891C3F7FEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfNames", "ListOfNames\ListOfNames.csproj", "{CC6ED47B-8732-4DA4-9258-B081FD35D296}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOfNames", "ListOfNames\ListOfNames.csproj", "{CC6ED47B-8732-4DA4-9258-B081FD35D296}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintEvenNumbers", "PrintEvenNumbers\PrintEvenNumbers.csproj", "{A2B14AB2-608F-47F5-B5B8-A49641EB7AC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintEvenNumbers", "PrintEvenNumbers\PrintEvenNumbers.csproj", "{A2B14AB2-608F-47F5-B5B8-A49641EB7AC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenAndOddSubstraction", "EvenAndOddSubstraction\EvenAndOddSubstraction.csproj", "{ECB30321-0D20-4FA6-A7E4-2103B62AD842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenAndOddSubstraction", "EvenAndOddSubstraction\EvenAndOddSubstraction.csproj", "{ECB30321-0D20-4FA6-A7E4-2103B62AD842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativeAndReverse", "..\..\..\12B - Tortoise\ConsoleApp1\RemoveNegativeAndReverse.csproj", "{FE4A6175-FD12-4A61-A95B-B86864559BC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF84CB81-0590-49CC-9756-D53645F84EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF84CB81-0590-49CC-9756-D53645F84EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF84CB81-0590-49CC-9756-D53645F84EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF84CB81-0590-49CC-9756-D53645F84EA0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{02EC1EF8-D74A-425F-BF10-C072A66E1435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{02EC1EF8-D74A-425F-BF10-C072A66E1435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02EC1EF8-D74A-425F-BF10-C072A66E1435}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{ECB30321-0D20-4FA6-A7E4-2103B62AD842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECB30321-0D20-4FA6-A7E4-2103B62AD842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECB30321-0D20-4FA6-A7E4-2103B62AD842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE4A6175-FD12-4A61-A95B-B86864559BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4A6175-FD12-4A61-A95B-B86864559BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4A6175-FD12-4A61-A95B-B86864559BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4A6175-FD12-4A61-A95B-B86864559BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
