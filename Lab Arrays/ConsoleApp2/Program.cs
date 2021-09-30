@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace ConsoleApp2
+namespace SumEvenNumbers
 {
     class Program
     {
