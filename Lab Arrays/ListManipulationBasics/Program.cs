@@ -37,6 +37,22 @@ namespace List
                     int insertNumber = int.Parse(commandArray[2]);
                     numbers.Insert(insertIndex, insertNumber);
                 }
+                else if (commandArray[0] == "AddTwo")
+                {
+                    int AddOneIndex = int.Parse(commandArray[1]);
+                    int AddTwoIndex = int.Parse(commandArray[2]);
+                    numbers.Add(AddOneIndex);
+                    numbers.Add(AddTwoIndex);
+                }
+                else if (commandArray[0] == "PrintGreater")
+                {
+                    foreach (var item in numbers)
+                    {
+                        int number = int.Parse(commandArray[1]);
+                        if (item > number)
+                            Console.Write(item + " ");
+                    }
+                }
 
                 command = Console.ReadLine();
             }
